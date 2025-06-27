@@ -2,7 +2,7 @@
 PrestaEvents est une application proposant des prestations autour de l’événementiel 
 
 
-### LES ETAPES DE MISE EN PLACE DE CETTE APPLICATION SONT LES SUIVANTES :
+## LES ETAPES DE MISE EN PLACE DE CETTE APPLICATION SONT LES SUIVANTES :
 
 ## Étape 1 — Gestion des prestataires (inscription, profils)
 
