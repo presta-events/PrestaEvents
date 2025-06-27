@@ -2,16 +2,7 @@
 PrestaEvents est une application proposant des prestations autour de l’événementiel 
 
 
-Voici une proposition complète et raisonnée d’une roadmap fonctionnelle de PrestaEvents, structurée en étapes chronologiques de développement, avec une argumentation stratégique pour chaque fonctionnalité.
-
-🎯 Objectif de cette roadmap :
-
-* Construire un produit cohérent et viable par étapes (MVP → V1 → V2…)
-* Apporter de la valeur utilisateur dès les premières versions
-* Valider le produit sur le terrain rapidement
-* Éviter le développement prématuré de fonctionnalités non essentielles
-
-🧭 Chronologie des fonctionnalités avec explication stratégique
+# LES ETAPES DE MISE EN PLACE DE CETTE APPLICATION SONT LES SUIVANTES :
 
 ## Étape 1 — Gestion des prestataires (inscription, profils)
 
